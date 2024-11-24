@@ -1,0 +1,17 @@
+webvault/
+├── assets/
+│   ├── css/
+│   │   └── lock.css
+│   ├── js/
+│   │   ├── background.js
+│   │   ├── content.js
+│   │   └── popup.js
+│   └── icons/
+│       ├── icon16.png
+│       ├── icon48.png
+│       └── icon128.png
+├── popup.html
+├── manifest.json
+├── README.md
+├── README.txt
+└── LICENSE
